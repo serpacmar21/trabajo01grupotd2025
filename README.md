@@ -8,7 +8,7 @@ El trabajo tiene como objetivo **formular y resolver dos problemas de decisión 
 
 ## Contenido del repositorio
 
-- **`Trabajo1.R`** → Solición de los dos problemas planteados con su código correspondiente.  
+- **`Trabajo1.R`** → Solución de los dos problemas planteados con su código correspondiente.  
 - **`Enunciados_Trabajo1.R`** → Enunciados de los dos problemas.  
 - **`teoriadecision_funciones_incertidumbre.R`** → Archivo de funciones proporcionado por el profesor.  
 - **`README.md`** → Este archivo de descripción del proyecto.
